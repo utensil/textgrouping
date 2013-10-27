@@ -16,3 +16,6 @@ License
 MIT License, see LICENSE. Copyright (c) 2013 Utensil Song (https://github.com/utensil)
 
 The code also includes the Jave part of library "Diff Match and Patch" ( http://code.google.com/p/google-diff-match-patch/ ), which is licensed under the Apache License, see http://www.apache.org/licenses/LICENSE-2.0 .
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/utensil/textgrouping/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
